@@ -1,0 +1,53 @@
+[
+    {
+      "designation": "Software Engineer I",
+      "skills_required": [
+        "Proficient in at least one programming language such as Python, Java, or C++.",
+        "Understands core computer science fundamentals including data structures and algorithms.",
+        "Able to write clean, maintainable code and follow team coding standards.",
+        "Familiar with version control systems like Git for collaborative development.",
+        "Basic understanding of debugging tools and unit testing frameworks."
+      ]
+    },
+    {
+      "designation": "Software Engineer II",
+      "skills_required": [
+        "Demonstrated ability to design, implement, and maintain features in production systems.",
+        "Experience working with APIs and integrating third-party services.",
+        "Understands software lifecycle processes including code reviews, testing, and deployments.",
+        "Can independently troubleshoot and resolve bugs or performance issues.",
+        "Comfortable working with SQL and NoSQL databases for data storage solutions."
+      ]
+    },
+    {
+      "designation": "Backend Developer",
+      "skills_required": [
+        "Expertise in backend programming languages such as Python, Java, or Node.js.",
+        "Hands-on experience building RESTful APIs and integrating them with frontend applications.",
+        "Proficiency with frameworks like Django, Spring Boot, or Express.js.",
+        "Solid knowledge of databases (e.g., PostgreSQL, MongoDB) and query optimization.",
+        "Experience with containerization using Docker and orchestration with Kubernetes is a plus."
+      ]
+    },
+    {
+      "designation": "Frontend Developer",
+      "skills_required": [
+        "Advanced knowledge of HTML5, CSS3, and modern JavaScript (ES6+).",
+        "Experience building responsive web interfaces using frameworks like React, Vue.js, or Angular.",
+        "Familiar with design systems and component-based architecture.",
+        "Skilled in debugging browser issues and optimizing performance for frontend code.",
+        "Understanding of RESTful API integration and asynchronous JavaScript patterns."
+      ]
+    },
+    {
+      "designation": "DevOps Engineer",
+      "skills_required": [
+        "Strong expertise in CI/CD tools like Jenkins, GitHub Actions, or GitLab CI.",
+        "Experience with containerization using Docker and orchestration via Kubernetes.",
+        "Deep understanding of infrastructure as code (IaC) tools such as Terraform or Ansible.",
+        "Proficiency with cloud platforms like AWS, GCP, or Azure.",
+        "Skilled in monitoring and logging tools like Prometheus, Grafana, or ELK stack."
+      ]
+    }
+  ]
+  
